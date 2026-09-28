@@ -1,0 +1,1 @@
+echo "Application Settings: Theme, Language, Notifications" > settings.txt
